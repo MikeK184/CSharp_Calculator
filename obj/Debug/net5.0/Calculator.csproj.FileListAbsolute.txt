@@ -1,0 +1,16 @@
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+C:\Users\Kilic\source\repos\Abgaben_S1\Calculator\obj\Debug\net5.0\Calculator.csprojAssemblyReference.cache
